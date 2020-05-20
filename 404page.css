@@ -1,0 +1,25 @@
+/* CSS 404 PAGE D'ERREUR SAID 20/05/20 */
+
+body {
+    width: 50%;
+    margin: auto;
+}
+h1 {
+    margin-left: 200px;
+}
+.bouton {
+    margin-left: 200px;
+}
+.bouton a {
+    display:block;
+    width:150px;
+    line-height:50px;
+    text-align:center;
+    vertical-align:middle;
+    background:url("bouton-noir.png") no-repeat;
+    color:white;
+    text-decoration:none;
+    }
+    .bouton a:hover {
+    background:url("bouton-noir-2.png") no-repeat;
+}
